@@ -24,5 +24,6 @@ istediğinizi tartışmak için bir konu açınız.
 
 
 ## License
-(MIT)[]
+[MIT]()
 
+![screenShot](images/screenShot.png)
