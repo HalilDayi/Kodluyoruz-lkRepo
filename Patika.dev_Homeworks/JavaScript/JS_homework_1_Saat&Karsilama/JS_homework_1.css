@@ -1,0 +1,36 @@
+body{
+    height: 100%;
+    background-color: #141f1f;
+}
+
+main{
+    position: relative;
+    margin-top: 10vh;
+}
+
+main > h1{
+    margin-left: 90vh;
+    font-size: 35px;
+}
+
+main > div#name--section{
+    margin-left: 80vh;
+}
+
+main > div#date--section{
+    margin-left: 92vh;
+}
+
+main > p{
+    margin-left: 20vh;
+}
+
+.info{
+    font-size: 25px;
+    color: orange;
+    position: relative;
+}
+
+.not-visible{
+    display: none;
+}
